@@ -1,5 +1,21 @@
 [TOC]
+
 ##Generator 사용법
+
+####0. model 다운로드
+
+https://www.dropbox.com/s/r38psbq55y2yj4f/fpn_new_model.tar.gz?dl=0
+다운로드 후
+cd /faker/data_generator/Face-Pose-Net 에 압축풀기
+
+dlib_models.tar
+다운로드 후
+cd /faker/data_generator/Face-Pose-Net/face_renderer 에 압축풀기
+
+landmark.tar
+다운로드 후
+cd /faker/data_generator/landmark 에 압축
+
 
 ####1. Landmark 추출
 
