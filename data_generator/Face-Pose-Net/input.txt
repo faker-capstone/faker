@@ -1,0 +1,1 @@
+./input_samples/jun31.jpg,21,8,158,158
