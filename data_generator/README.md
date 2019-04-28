@@ -1,4 +1,3 @@
-[TOC]
 
 ## Generator 사용법
 
