@@ -7,10 +7,12 @@ https://www.dropbox.com/s/r38psbq55y2yj4f/fpn_new_model.tar.gz?dl=0  <br>
 다운로드 후
 cd /faker/data_generator/Face-Pose-Net 에 압축풀기
 
-dlib_models.tar <br>
+https://drive.google.com/open?id=1t4iMH89IxuvxsRbvbYfWkX46eylUfM9T 
+위의 링크에서 dlib_models.tar <br>
 다운로드 후
 cd /faker/data_generator/Face-Pose-Net/face_renderer 에 압축풀기
 
+위의 구글드라이브 링크에서 
 landmark.tar <br>
 다운로드 후
 cd /faker/data_generator/landmark 에 압축
