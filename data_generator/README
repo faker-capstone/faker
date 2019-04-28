@@ -4,15 +4,15 @@
 
 ####0. model 다운로드
 
-https://www.dropbox.com/s/r38psbq55y2yj4f/fpn_new_model.tar.gz?dl=0
+https://www.dropbox.com/s/r38psbq55y2yj4f/fpn_new_model.tar.gz?dl=0  <br>
 다운로드 후
 cd /faker/data_generator/Face-Pose-Net 에 압축풀기
 
-dlib_models.tar
+dlib_models.tar <br>
 다운로드 후
 cd /faker/data_generator/Face-Pose-Net/face_renderer 에 압축풀기
 
-landmark.tar
+landmark.tar <br>
 다운로드 후
 cd /faker/data_generator/landmark 에 압축
 
