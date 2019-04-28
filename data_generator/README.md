@@ -1,8 +1,8 @@
 [TOC]
 
-##Generator 사용법
+## Generator 사용법
 
-####0. model 다운로드
+#### 0. model 다운로드
 
 https://www.dropbox.com/s/r38psbq55y2yj4f/fpn_new_model.tar.gz?dl=0  <br>
 다운로드 후
@@ -17,7 +17,7 @@ landmark.tar <br>
 cd /faker/data_generator/landmark 에 압축
 
 
-####1. Landmark 추출
+#### 1. Landmark 추출
 
 ```
 cd generator/landmark/
@@ -31,7 +31,7 @@ mv input.txt ../Face-Pose-Net/
 mv "input-img-name" ../Face-Pose-Net/input_samples/
 ```
 
-####2. Change Face Pose
+#### 2. Change Face Pose
 
 ```
 python main_fpn.py input.txt
@@ -43,7 +43,7 @@ python main_fpn.py input.txt
 mv ./output_render/1 ./face_renderer/input/
 ```
 
-####3. augmentation 갯수 증가
+#### 3. augmentation 갯수 증가
 
 * 제일 첫번째 이미지 선택
 
